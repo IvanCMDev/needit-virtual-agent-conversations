@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">f50644ea2fb82110c9d3bcb62799b662</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 15:14:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aaca50a62f7c2110c9d3bcb62799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FieldsScriptObject.initialize</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_191588_needit_vi">f50644ea2fb82110c9d3bcb62799b662</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">f50644ea2fb82110c9d3bcb62799b662</sys_scope>
+        <sys_update_name>sys_scope_privilege_aaca50a62f7c2110c9d3bcb62799b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-06 15:14:20</sys_updated_on>
+        <target_name>FieldsScriptObject.initialize</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
